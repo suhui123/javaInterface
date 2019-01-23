@@ -25,7 +25,7 @@
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.9" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.5.5" level="project" />
-    <orderEntry type="library" name="Maven: org.testng:testng:7.0.0-beta1" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:testng:7.0.0-beta3" level="project" />
     <orderEntry type="library" name="Maven: com.beust:jcommander:1.72" level="project" />
   </component>
 </module>

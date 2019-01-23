@@ -9,7 +9,7 @@
     </typeAliases>
 
     <mappers>
-        <mapper resource="mapper/***.xml"/>
+        <mapper resource="mapper/mysql.xml"/>
     </mappers>
 
 </configuration>
