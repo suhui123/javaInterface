@@ -111,15 +111,4 @@ public class UserManager {
         return  false;
     }
 
-//    public static void main(String[] args) {
-//        Boolean a=false;
-//        Boolean b=true;
-//
-//        if(a!=null){
-//            System.out.println("true");
-//        }
-//
-//    }
-
-
 }
