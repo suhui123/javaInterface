@@ -10,5 +10,5 @@
     <mappers>
         <mapper resource="mapper/mysql.xml"/>
     </mappers>
-
+    
 </configuration>
